@@ -10,7 +10,7 @@ The core of this project involves auditing several key classes at EPFL, includin
 ## Proposal Overview
 
 ### Problem:
-There is a significant knowledge gap in the blockchain industry, particularly in advanced zero-knowledge proof systems and their practical applications. This gap hinders the rapid advancement and adoption of cutting-edge technologies like Mina's zkApps and recursive proof systems. The complexity of these topics often creates a barrier between academic research and real-world implementation, slowing down innovation and ecosystem growth.
+There is a significant knowledge gap within crypto, particularly in advanced zero-knowledge proof systems and their practical applications. This gap hinders the rapid advancement and adoption of cutting-edge technologies like Mina's zkApps and recursive proof systems. The complexity of these topics often creates a barrier between academic research and real-world implementation, slowing down innovation and ecosystem growth.
 
 ### Solution:
 This research project proposes an intensive study program at EPFL, focusing on interactive ZK proofs, proof recursion, computational complexity, and information theory. The key aspect of this solution is the rapid distillation and dissemination of complex academic concepts into accessible, Mina-focused weekly research posts. These posts will include:
@@ -48,17 +48,17 @@ The project will consist of a series of 12 weekly blog posts, each synthesizing 
 
 Here's a tentative outline of the 12-week research post series:
 
-1. **Week 1**: Introduction to Interactive Proofs and their Relevance to Mina
-2. **Week 2**: Computational Complexity Basics and ZK Proof Efficiency
-3. **Week 3**: Information Theory Fundamentals for Blockchain Systems
-4. **Week 4**: Interactive Oracle Proofs (IOPs) and Mina's zkApp Platform
-5. **Week 5**: Proof Recursion Techniques in Mina's Blockchain
-6. **Week 6**: Computational Complexity of zkApp Operations
-7. **Week 7**: Information-Theoretic Limits in ZK Proofs
-8. **Week 8**: Advanced IOP Protocols and Potential Mina Applications
-9. **Week 9**: Optimizing Recursive Proofs in Mina using Complexity Theory
-10. **Week 10**: Information-Theoretic Approaches to zkApp Optimization
-11. **Week 11**: Combining IOP, Complexity, and Information Theory for Novel zkApp Designs
+1. **Week 1**: Introduction to Interactive Proofs and Mina's ZK Ecosystem
+2. **Week 2**: HyperNova and Proof Folding: Advancing Mina's Recursive Proofs
+3. **Week 3**: Accumulation Schemes and Their Potential in Mina's Architecture
+4. **Week 4**: Sumcheck Protocol and SuperSpartan IOP: Enhancing Mina's Efficiency
+5. **Week 5**: Customized Constraint Systems and Arithmetization for Mina zkApps
+6. **Week 6**: Information Theoretical Basis of IOPs in Mina's Context
+7. **Week 7**: Low-Degree Testing and Reed-Solomon Codes in Mina's Proof Systems
+8. **Week 8**: Measuring Time-Space Complexity of Proofs in Mina's Blockchain
+9. **Week 9**: Advanced IOP Protocols and Their Potential Mina Applications
+10. **Week 10**: Optimizing Recursive Proofs in Mina using Complexity Theory
+11. **Week 11**: Information-Theoretic Approaches to zkApp Optimization
 12. **Week 12**: Future Directions for Mina: Synthesizing Advanced ZK Concepts
 
 Each post will include:
